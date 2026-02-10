@@ -1,4 +1,3 @@
-# Required by boss
 target/
 node_modules/
 config/
